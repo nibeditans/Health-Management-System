@@ -1,9 +1,9 @@
 # Health Management System
 # There are 3 clients - Chicku, Picku and Jani
 
-def getdate():
-    import datetime
-    return datetime.datetime.now()
+# def getdate():
+#     import datetime
+#     return datetime.datetime.now()
 
 
 # Total 6 files

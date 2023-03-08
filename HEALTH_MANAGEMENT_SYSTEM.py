@@ -1,17 +1,13 @@
 # Health Management System
 # There are 3 clients - Chicku, Picku and Jani
 
-# def getdate():
-#     import datetime
-#     return datetime.datetime.now()
-
 
 # Total 6 files
 # Write a function that takes as input client name when executed
 # One more function to retrieve exercise or food for any client
 
 
-# Here is the Code Dude
+# So, here is the Code Dude
 import datetime
 
 def gettime():

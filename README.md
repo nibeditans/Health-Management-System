@@ -35,4 +35,4 @@ To use the Health Management System, follow the on-screen instructions to create
 If you'd like to contribute to the Health Management System, feel free to submit a pull request. Please make sure to include a detailed description of your changes and any relevant tests.
 
 #Contact
-If you have any questions or concerns about the Health Management System, please contact the project maintainer at nibeditasahu2003@gmail.com.
+If you have any questions or concerns about the Health Management System, please contact the project maintainer at nslegend94@gmail.com.

@@ -1,5 +1,5 @@
 # Define the three persons
-persons = ["NS", "JB", "CP"]
+persons = ["NS", "Nibe", "Dita"]
 
 # Define the two options
 options = ["log", "retrieve"]
@@ -11,7 +11,7 @@ categories = ["exercise", "food"]
 # Define a function to log or retrieve data
 def health_management_system():
     # Get the person's name
-    person = input("Enter person's name (NS, JB, or CP): ")
+    person = input("Enter person's name (NS, Nibe, or Dita): ")
     if person not in persons:
         print("Invalid person's name!")
         return
